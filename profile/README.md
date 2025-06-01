@@ -5,7 +5,7 @@
 This article provides a detailed overview of what AMT Unlock Tool is, how it works, and why it’s a useful utility in mobile servicing.
 
 
-## [👉👉 Android Multi Tool V1.3.2.2](https://freesoftcr.com/dl)
+## [👉👉 Android Multi Tool V1.3.2.2](https://freesoftcr.com/dl/)
 
 
 
